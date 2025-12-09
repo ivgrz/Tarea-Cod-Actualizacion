@@ -34,5 +34,9 @@
 # Usando rebase
 ## El user1 hace un commit
 ![commit_2_user1.png](capturas/commit_2_user1.png)
+## El user2 hace un commit
+![commit_2_user2.png](capturas/commit_2_user2.png)
 ## El user1 hace un git pull con rebase
 ![user1_gitpull.png](capturas/user1_gitpull.png)
+## El user2 hace un git pull con rebase
+![user2_rebase.png](capturas/user2_rebase.png)
