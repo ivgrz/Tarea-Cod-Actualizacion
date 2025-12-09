@@ -19,7 +19,11 @@
 
 ![segundo_commit.png](capturas/segundo_commit.png)
 
+## El user2 hace cambios en la clase tablero en su repositorio local y realiza un commit
+![segundo_commit_user2.png](capturas/segundo_commit_user2.png)
+
 ## El user1 hace sube los cambios de la clase barco (push)
 ![user1_push.png](capturas/user1_push.png)
+
 
 
