@@ -1,3 +1,5 @@
 class Barco:
-	def __init__(self):
-		pass
+	def __init__(self, tipo, tamanho):
+		self.tipo = tipo
+		self.tamanho = tamanho
+
