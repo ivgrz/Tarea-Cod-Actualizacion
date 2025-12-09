@@ -28,4 +28,5 @@
 ## El user2 hace un merge de los cambios del user1 (pull)
 ![merge.png](capturas/merge.png)
 
-
+## El user2 sube sus cambios 
+![user2_push.png](capturas/user2_push.png)
