@@ -30,3 +30,9 @@
 
 ## El user2 sube sus cambios 
 ![user2_push.png](capturas/user2_push.png)
+
+# Usando rebase
+## El user1 hace un commit
+![commit_2_user1.png](capturas/commit_2_user1.png)
+## El user1 hace un git pull con rebase
+![user1_gitpull.png](capturas/user1_gitpull.png)
