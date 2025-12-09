@@ -15,4 +15,11 @@
 
 ![verificar_conexion_user2.png](capturas/verificar_conexion_user2.png)
 
+## El user1 hace cambios en la clase Barco y realiza el commit
+
+![segundo_commit.png](capturas/segundo_commit.png)
+
+## El user1 hace sube los cambios de la clase barco (push)
+![user1_push.png](capturas/user1_push.png)
+
 
