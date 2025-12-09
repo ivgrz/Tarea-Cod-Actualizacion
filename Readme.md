@@ -25,5 +25,7 @@
 ## El user1 hace sube los cambios de la clase barco (push)
 ![user1_push.png](capturas/user1_push.png)
 
+## El user2 hace un merge de los cambios del user1 (pull)
+![merge.png](capturas/merge.png)
 
 
